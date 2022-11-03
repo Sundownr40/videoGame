@@ -43,7 +43,8 @@ ORANGEII = (255,128,0)
 PINK = (255,20,147)
 DARKGREEN = (85,107,47)
 
-#Sprites. Setting classes (player as Orange) as well as creating characterisitcs for all
+#Sprites. Setting classes (player as Orange) as well as creating characterisitcs for allnn
+
 class Player(Sprite):
     def __init__(self):
         Sprite.__init__(self)
